@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES:Social
+DESCRIPTION:Gobblerfest is an annual involvement fair to promote opportuni
+ ties with student organizations\, departments\, and the broader community
+  to kick start students’ journey to ExperienceVT. This free event was con
+ ceived in the fall of 2008 and has quickly become a highlight of the star
+ t of the academic year. We hope you join us!\nGobblerfest will be held on
+  Friday\, August 30\, 2024\, from 4-7 p.m on the Drillfield.\nWe encourag
+ e students planning to attend to browse our student organizations on Gobb
+ lerConnect and come ready to experience over 700 booths\, live performanc
+ es\, and rides - rain or shine! \n \nThank you to our presenting event sp
+ onsors that make this possible: Coca-Cola\, CMG Leasing\, Inc.\, Foxridge
+ \, and HBO Max!\n \nCheck out the list of participating organizations and
+  find more event information on our website: https://campuslife.vt.edu/St
+ udent_Orgs/gobblerfest.html \n \n\n\nIf you are an individual with a disa
+ bility and desire an accommodation\, welcome! Please contact Ben Evans at
+  campuslife@vt.edu or 540-231-5431 during regular business hours at least
+  five business days prior to the event.\n\n\n \n\nHosted by: Student Enga
+ gement and Campus Life\n\nAdditional Information can be found at: https:/
+ /gobblerconnect.vt.edu/event/10313076
+DTEND:20240830T230000Z
+DTSTAMP:20240824T233424Z
+DTSTART:20240830T200000Z
+LOCATION:The Drillfield
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GOBBLERFEST 2024
+UID:https://gobblerconnect.vt.edu/event/10313076
+URL:https://gobblerconnect.vt.edu/event/10313076
+X-HOSTS:Student Engagement and Campus Life
+END:VEVENT
+END:VCALENDAR
